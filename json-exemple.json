@@ -1,0 +1,44 @@
+{
+    "temperature1": "17",
+    "humid1": "80",
+    "ressentie1": "0",
+    "air1": "2",
+    "weatherstyle1": "3",
+
+    "temperature2": "17",
+    "humid2": "80",
+    "ressentie2": "0",
+    "air2": "2",
+    "weatherstyle2": "3",
+    
+    "temperature3": "17",
+    "humid3": "80",
+    "ressentie3": "0",
+    "air3": "3",
+    "weatherstyle3": "3",
+
+    "temperature4": "17",
+    "humid4": "80",
+    "ressentie4": "0",
+    "air4": "4",
+    "weatherstyle4": "4",
+
+    "temperature5": "17",
+    "humid5": "80",
+    "ressentie5": "0",
+    "air5": "5",
+    "weatherstyle5": "5",
+
+    "temperature6": "17",
+    "humid6": "80",
+    "ressentie6": "0",
+    "air6": "6",
+    "weatherstyle6": "6",
+
+    "temperature7": "17",
+    "humid7": "80",
+    "ressentie7": "0",
+    "air7": "7",
+    "weatherstyle7": "7"
+
+}
