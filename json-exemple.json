@@ -5,34 +5,42 @@
     "air1": "8",
     "weatherstyle1": "Ensoleillé",
     "date1": "Vendredi 21 Février 2020",
+    "image1": "images/big/Ensoleillé.png",
 
     "temperature2": "13",
     "humid2": "40",
     "weatherstyle2": "Éclaircie",
     "date2": "Samedi 22/02",
+    "image2": "images/small/Éclaircie.png",
+
 
     "temperature3": "9",
     "humid3": "70",
     "weatherstyle3": "Pluvieux",
     "date3": "Dimanche 23/02",
+    "image3": "images/small/Pluvieux.png",
 
     "temperature4": "25",
     "humid4": "80",
     "weatherstyle4": "Orage",
     "date4": "Lundi 24/02",
+    "image4": "images/small/Orage.png",
 
     "temperature5": "15",
     "humid5": "25",
     "weatherstyle5": "Nuageux",
     "date5": "Mardi 25/02",
+    "image5": "images/small/Nuageux.png",
 
     "temperature6": "37",
     "humid6": "80",
     "weatherstyle6": "Canicule",
     "date6": "Mercredi 26/02",
+    "image6": "images/small/Canicule.png",
 
     "temperature7": "-2",
     "humid7": "10",
     "weatherstyle7": "Neige",
-    "date7": "Jeudi 27/02"
+    "date7": "Jeudi 27/02",
+    "image7": "images/small/Neige.png"
   }
