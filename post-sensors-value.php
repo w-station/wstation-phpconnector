@@ -4,7 +4,7 @@ $host = "localhost"; // Setup the server location
 $dbname = "wstation"; // Setup the database name 
 $username = "wstation"; // Setup the username to access to the database
 $password = "strongpassword"; // Setup the password to access to the database
-$api_key_value = "By6nraagZb"; // Setup the API key to verify the authenticity of the request
+$api_key_value = "c81cc6f99e2ad2de51f38d79eee21ee04b406ed218c01ea7ec0b2a1f5fa259af"; // Setup the API key to verify the authenticity of the request
 
 // Setup the blank variables
 $api_key= "";
